@@ -4,9 +4,13 @@
 
 ### 🧐 Sobre mim
 Sou um(a) apaixonado(a) por tecnologia e educação.  
+
 🌍 Moro em Jataí, Brasil 🇧🇷
+
 📅 25 anos 
+
 💻 Programo em Python, Flutter, Swift e sempre estudo algo novo  
+
 🔥 Interesses: #Java e Typescript, Flutter, Swift, Python e IA  
 
 ### 🛠 Minhas ferramentas
