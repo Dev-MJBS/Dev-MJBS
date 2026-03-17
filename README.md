@@ -7,7 +7,7 @@ Sou um(a) apaixonado(a) por tecnologia e educação.
 
 🌍 Moro em Jataí, Brasil 🇧🇷
 
-📅 25 anos 
+📅 26 anos 
 
 💻 Programo em Python, Flutter, Swift e sempre estudo algo novo  
 
@@ -18,6 +18,6 @@ Sou um(a) apaixonado(a) por tecnologia e educação.
 
 
 ### 🐦 Meus posts no X/Twitter (só em PT-BR)
-**X**: https://x.com/matjobinho/
+**X**: https://x.com/imjob/
 
 </div>
